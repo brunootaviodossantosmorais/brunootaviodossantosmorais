@@ -8,8 +8,11 @@ meu nome é bruno otavio
 
 ### vocẽ entrar em contato  comigo 📫
 
-bruno.santos.morais@escola.p.gov.br
+bruno.santos.morais@escola.pr.gov.br
 
 
 
-![](https://tenor.com/pt-BR/view/horse-interview-microphone-horse-talking-news-gif-755519426988214132)
+![](https://tenor.com/pt-BR/view/horse-interview-microphone-horse-talking-news-gif-)
+
+
+
