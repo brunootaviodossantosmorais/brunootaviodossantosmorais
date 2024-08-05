@@ -2,7 +2,7 @@
 
 meu nome é bruno otavio 
 
--estou estudando no alura 
+-estou estudando na alura  [alura](https://www.alura.com.br)
 -estou me desevolvendo na lingua javaScript
 -ultilizo esse espaço para minha organização e compartilhamento dos meu projeto desevolvidos
 
@@ -12,7 +12,7 @@ bruno.santos.morais@escola.pr.gov.br
 
 
 
-![](https://tenor.com/pt-BR/view/horse-interview-microphone-horse-talking-news-gif-)
+![](https://media1.tenor.com/m/Cnwk6nqKB3QAAAAd/horse-interview.gif)
 
 
 
