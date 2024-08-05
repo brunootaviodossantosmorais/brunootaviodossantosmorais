@@ -12,5 +12,4 @@ bruno.santos.morais@escola.p.gov.br
 
 
 
-![.]
-https://media1.tenor.com/m/Uaz9H_Xs5WsAAAAC/horse-backflip.gif
+![](https://tenor.com/pt-BR/view/horse-interview-microphone-horse-talking-news-gif-755519426988214132)
